@@ -49,3 +49,7 @@ forecast = [
     }
   }
 ]
+
+forecast.each {|key| puts key}
+
+
